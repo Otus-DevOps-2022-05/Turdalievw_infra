@@ -1,7 +1,4 @@
 #!/bin/bash
 
-sudo apt-get update
-apt-get install -y git
-git clone -b monolith https://github.com/express42/reddit.git
-cd reddit && bundle install
-puma -d
+sudo apt update
+sudo apt install -y ruby-full ruby-bundler build-essential
