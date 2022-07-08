@@ -19,7 +19,7 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-ksfTgQOOnE+FFXf+yNfVjKSlEckJAdufFIYGK7ZjRhWcZgzAGcmZqqArTgMLpu90FwthqcCX4ldDgKXbmVMeuQ==" rel="stylesheet" href="https://github.githubassets.com/assets/light-92c7d381038e.css" /><link crossorigin="anonymous" media="all" integrity="sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf4Yp7dI0ZTWO+ljg==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-d4a90c367f0c.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5e900c04c491.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-dc71761d9e0b.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-f89f23dd3d24.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-010780c79c07.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" integrity="sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-faee699a0004.css" />
-  
+
     <link crossorigin="anonymous" media="all" integrity="sha512-EAhBCLIJ/pXHG3Y6yQhs9s53SHV80sjJ+yCwlQtfv7LaVkD+VoEuZBZ5betQJFUNj/5qBSfZk5GFtazEDzWLAg==" rel="stylesheet" href="https://github.githubassets.com/assets/primer-10084108b209.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-oPOdLuGklyabk0ahpehbrOn2jEwWT5fIcgNPsUipsBIWjE4YWjMk8n4NDzJ135hL9jDhlewFHFtR38uZFsV8AA==" rel="stylesheet" href="https://github.githubassets.com/assets/global-a0f39d2ee1a4.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-+BXQXTcaoVpw6DQma9O1CCCIQiS9PZgyqRhSulibpIQIk0JhSfE6+hFl7fChAl+DmqKRE2lD3oO60mUTKYDpww==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f815d05d371a.css" />
@@ -56,13 +56,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-AWqWq24FxOesFgq1EP6LkmVSDZKwFickfe2BAp9Q7OYZF9275sRUMLUoRSyWxT54vsZukqxCPQYDsKrB9zGXjQ==" src="https://github.githubassets.com/assets/repositories-016a96ab6e05.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-qdw+BWockO4ObzgPzEaj7M+W7YFhNOM4lzVPt+o7FPLdSODoaa6f45aWSU/cutDuP0RkZhPJsBSmQwk2oSyWUg==" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f314c3-a9dc3e056a1c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-LE1ypLl5dPuzOQexXL72+BZd/2cnmnlUTDjQAGciIsHp/OJspParBwNZ4GqHjkKu9S4W/wyJiNDglcJyZ6T8lA==" src="https://github.githubassets.com/assets/diffs-2c4d72a4b979.js"></script>
-  
+
 
   <title>Turdalievw_infra/install_mongodb.sh at cloud-testapp · Otus-DevOps-2022-05/Turdalievw_infra</title>
 
 
 
-    
+
 
   <meta name="request-id" content="51FA:3E9D:271371:297CCB:62C3E975" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c38e52ccb5be6ffe0c90c77e04d615b378fac627e67ddc84f9552b7ae5331ae2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9PdHVzLURldk9wcy0yMDIyLTA1L1R1cmRhbGlldndfaW5mcmEvdHJlZS9jbG91ZC10ZXN0YXBwL2Nsb3VkLXRlc3RhcHAiLCJyZXF1ZXN0X2lkIjoiNTFGQTozRTlEOjI3MTM3MToyOTdDQ0I6NjJDM0U5NzUiLCJ2aXNpdG9yX2lkIjoiODMxNzA2NDExMTQ3NTE5OTczMiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="97d636d46cedd6fceb2499c29f75e64ceb37bc8070594536d9554c2b3963530d" data-pjax-transient="true" />
 
@@ -70,7 +70,7 @@
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -83,17 +83,17 @@
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
-  
 
 
 
 
-  
+
+
 
     <meta name="user-login" content="Turdalievw">
 
     <meta name="viewport" content="width=device-width">
-    
+
       <meta name="description" content="Turdalievw Infra repository. Contribute to Otus-DevOps-2022-05/Turdalievw_infra development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -101,7 +101,7 @@
     <meta name="apple-itunes-app" content="app-id=1477376905" />
       <meta name="twitter:image:src" content="https://opengraph.githubassets.com/95e88d7dd3e1816396efca48131fe3db4401cd6ce1f4a67d7c561b802e6efe38/Otus-DevOps-2022-05/Turdalievw_infra" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Turdalievw_infra/install_mongodb.sh at cloud-testapp · Otus-DevOps-2022-05/Turdalievw_infra" /><meta name="twitter:description" content="Turdalievw Infra repository. Contribute to Otus-DevOps-2022-05/Turdalievw_infra development by creating an account on GitHub." />
       <meta property="og:image" content="https://opengraph.githubassets.com/95e88d7dd3e1816396efca48131fe3db4401cd6ce1f4a67d7c561b802e6efe38/Otus-DevOps-2022-05/Turdalievw_infra" /><meta property="og:image:alt" content="Turdalievw Infra repository. Contribute to Otus-DevOps-2022-05/Turdalievw_infra development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Turdalievw_infra/install_mongodb.sh at cloud-testapp · Otus-DevOps-2022-05/Turdalievw_infra" /><meta property="og:url" content="https://github.com/Otus-DevOps-2022-05/Turdalievw_infra" /><meta property="og:description" content="Turdalievw Infra repository. Contribute to Otus-DevOps-2022-05/Turdalievw_infra development by creating an account on GitHub." />
-      
+
     <link rel="assets" href="https://github.githubassets.com/">
       <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/107407423/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDc0MDc0MjMsInMiOjkwMDI5NjIyMywiYyI6MzU5OTg0MTg3MiwidCI6MTY1NzAwNjQ2Mn0=--0ce4fe3c75707e1d5ba562ea25ff167d27d8cdd67480fa8f23dbe394fa5698b2" data-refresh-url="/_alive" data-session-id="4080ec69ff65d3efc2687b4ec2613fe952363a4c6a20cb7b2809dacf8ed22a6b">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
@@ -126,7 +126,7 @@
 
   <meta name="turbo-cache-control" content="no-preview" data-pjax-transient="">
 
-    
+
   <meta name="go-import" content="github.com/Otus-DevOps-2022-05/Turdalievw_infra git https://github.com/Otus-DevOps-2022-05/Turdalievw_infra.git">
 
   <meta name="octolytics-dimension-user_id" content="107253715" /><meta name="octolytics-dimension-user_login" content="Otus-DevOps-2022-05" /><meta name="octolytics-dimension-repository_id" content="503285359" /><meta name="octolytics-dimension-repository_nwo" content="Otus-DevOps-2022-05/Turdalievw_infra" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="503285359" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Otus-DevOps-2022-05/Turdalievw_infra" />
@@ -156,14 +156,14 @@
   </head>
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
-    
+
 
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
-</span>      
-      
+</span>
+
 
 
         <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-7fFr5+6i+l5LyfjnTyb9Gt4T4ZHql0UDVDvR6V1Fk65ubcsF+TbK9TOi55JzWYDfDt3PyuZXuF4F+alrnVCtMw==" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_catalyst_lib-6e1996-edf16be7eea2.js"></script>
@@ -172,7 +172,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-/AqDngO4QYXEZuCjXd4bczs4dsa2ck5dKxJSNfRRHYfaps7vwOcvrDFyNm7mncy95k2APmcWVjoGpZRhfEwqTw==" src="https://github.githubassets.com/assets/command-palette-fc0a839e03b8.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
-  
+
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
       <a
   class="Header-link "
@@ -193,11 +193,11 @@
       <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="Header-link js-details-target btn-link">  <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
     <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
 </svg>
-  
+
 </button>    </div>
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
-              
+
 
 
 
@@ -231,9 +231,9 @@
 
 
           <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-            
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
@@ -280,7 +280,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
@@ -318,7 +318,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
@@ -356,7 +356,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
@@ -465,9 +465,9 @@
     </div>
 
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
-        
+
 <notification-indicator
-  
+
   class=" js-socket-channel"
   data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTA3NDA3NDIzIiwidCI6MTY1NzAwNjQ2Mn0=--0e06037e4e15e62bd96e9f9cb02135dfd1ef6da476680134b28b58e487a50c67"
   data-indicator-mode="none"
@@ -479,7 +479,7 @@
   <a href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
-    
+
 
     data-hotkey="g n"
     data-target="notification-indicator.link"
@@ -512,7 +512,7 @@
 </svg> <span class="dropdown-caret"></span>
   </summary>
   <details-menu class="dropdown-menu dropdown-menu-sw">
-    
+
 <a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -537,7 +537,7 @@
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
-        
+
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/Turdalievw/feature_preview/indicator_check">
 
   <summary
@@ -552,7 +552,7 @@
   <details-menu
       class="dropdown-menu dropdown-menu-sw"
       style="width: 180px"
-      
+
       preload>
       <include-fragment src="/users/107407423/menu" loading="lazy">
         <p class="text-center mt-3" data-hide-on-error>
@@ -574,7 +574,7 @@
     </div>
 </header>
 
-            
+
     </div>
 
   <div id="start-of-content" class="show-on-focus"></div>
@@ -597,7 +597,7 @@
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
     </button>
-    
+
       <div>{{ message }}</div>
 
   </div>
@@ -606,7 +606,7 @@
 </div>
 
 
-    
+
   <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
 
@@ -1369,7 +1369,7 @@
             data-src="/command_palette/commands"
           data-supported-modes="[]"
             data-supports-commands
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1378,7 +1378,7 @@
             data-src="/command_palette/jump_to_page_navigation"
           data-supported-modes="[&quot;&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;,&quot;repository&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1387,7 +1387,7 @@
             data-src="/command_palette/issues"
           data-supported-modes="[&quot;#&quot;,&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;,&quot;&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1396,7 +1396,7 @@
             data-src="/command_palette/jump_to"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1405,7 +1405,7 @@
             data-src="/command_palette/jump_to_members_only"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;,&quot;&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1414,7 +1414,7 @@
             data-src="/command_palette/jump_to_members_only_prefetched"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;,&quot;&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1423,7 +1423,7 @@
             data-src="/command_palette/files"
           data-supported-modes="[&quot;/&quot;]"
             data-supported-scope-types="[&quot;repository&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1432,7 +1432,7 @@
             data-src="/command_palette/discussions"
           data-supported-modes="[&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1441,7 +1441,7 @@
             data-src="/command_palette/projects"
           data-supported-modes="[&quot;#&quot;,&quot;!&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1450,7 +1450,7 @@
             data-src="/command_palette/recent_issues"
           data-supported-modes="[&quot;#&quot;,&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;,&quot;&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1459,7 +1459,7 @@
             data-src="/command_palette/teams"
           data-supported-modes="[&quot;@&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;owner&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
         <server-defined-provider
@@ -1468,7 +1468,7 @@
             data-src="/command_palette/name_with_owner_repository"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;,&quot;&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           data-targets="command-palette.serverDefinedProviderElements"
           ></server-defined-provider>
     </command-palette>
@@ -1536,11 +1536,11 @@
   >
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container >
-      
-  
 
-    
-    
+
+
+
+
 
 
 
@@ -1581,7 +1581,7 @@
     <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
 </svg>Edit Pins
           <span class="dropdown-caret"></span>
-  
+
 </summary>        <details-menu class="SelectMenu" role="menu">
           <form id="pin-organization-repo-update-form" data-target="pin-organization-repo.form" data-turbo="false" action="/Otus-DevOps-2022-05/Turdalievw_infra/pin_organization_repo" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bQQ9jATYneEIEDfo-JN4LCVTYAuQJt-0q93Qi8_lsBWK9jsb7urGrzq4-K2ahgaYt9ebvMnuSxnkdRC_mJA0TA" autocomplete="off" />
             <div class="SelectMenu-modal">
@@ -1598,21 +1598,21 @@
                     <input type="hidden" name="user-profile" id="user-profile" value="off" autocomplete="off" />
                     <input type="checkbox" name="user-profile" class="mr-2 mt-1" aria-label="pin to your own profile"
                       data-action="change:pin-organization-repo#formModified"
-                      
+
                       >
                     <div>
                       <h5>Profile</h5>
                       <span>Pin this to your personal profile, visible to everyone</span>
-                      
+
                     </div>
                   </label>
               </div>
               <footer class="SelectMenu-footer">
                 <div class="text-right">
                   <button data-toggle-for="org-repo-pin-select-menu" type="reset" data-view-component="true" class="btn">  Cancel
-  
+
 </button>                  <button form="pin-organization-repo-update-form" data-target="pin-organization-repo.submitButton" disabled="disabled" type="submit" data-view-component="true" class="btn-primary btn">  Apply
-  
+
 </button>                </div>
               </footer>
             </div>
@@ -1637,7 +1637,7 @@
       <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:503285359,&quot;originating_url&quot;:&quot;https://github.com/Otus-DevOps-2022-05/Turdalievw_infra/blob/cloud-testapp/cloud-testapp/install_mongodb.sh&quot;,&quot;user_id&quot;:107407423}}" data-hydro-click-hmac="97a2a174097d4fefab549f435c9338cf2e09d3d7949c7532a1076884c3b2ced8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
-              
+
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-eye">
@@ -1647,7 +1647,7 @@
             </span>
             <span
               hidden
-              
+
               data-target="notifications-list-subscription-form.stopIgnoringButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell-slash">
@@ -1656,8 +1656,8 @@
               Stop ignoring
             </span>
             <span
-              
-              
+
+
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-eye">
@@ -1668,13 +1668,13 @@
           </span>
             <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
           <span class="dropdown-caret"></span>
-  
+
 </summary>
         <details-menu
           class="SelectMenu  "
           role="menu"
           data-target="notifications-list-subscription-form.menu"
-          
+
         >
           <div class="SelectMenu-modal notifications-component-menu-modal">
             <header class="SelectMenu-header">
@@ -1699,7 +1699,7 @@
                   role="menuitemradio"
                   aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
-                  
+
                 >
                   <span class="f5">
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
@@ -1772,7 +1772,7 @@
                 data-action="click:notifications-list-subscription-form#openCustomDialog"
                 aria-haspopup="true"
                 aria-checked="false"
-                
+
               >
                 <span class="f5">
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
@@ -1869,14 +1869,14 @@
                         value="Issue"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Issues
                     </label>
 
                       <span
                         class="tooltipped tooltipped-nw mr-2 p-1 float-right"
-                        
+
                         aria-label="Issues are not enabled for this repo">
                         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-info color-fg-muted">
     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path>
@@ -1891,7 +1891,7 @@
                         value="PullRequest"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Pull requests
                     </label>
@@ -1905,7 +1905,7 @@
                         value="Release"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Releases
                     </label>
@@ -1919,14 +1919,14 @@
                         value="Discussion"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Discussions
                     </label>
 
                       <span
                         class="tooltipped tooltipped-nw mr-2 p-1 float-right"
-                        
+
                         aria-label="Discussions are not enabled for this repo">
                         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-info color-fg-muted">
     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path>
@@ -1941,7 +1941,7 @@
                         value="SecurityAlert"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Security alerts
                     </label>
@@ -1950,11 +1950,11 @@
               </fieldset>
               <div class="pt-2 pb-3 px-3 d-flex flex-justify-start flex-row-reverse">
                 <button name="do" value="custom" data-target="notifications-list-subscription-form.customSubmit" disabled="disabled" type="submit" data-view-component="true" class="btn-primary btn-sm btn ml-2">  Apply
-  
+
 </button>
 
                 <button data-action="click:notifications-list-subscription-form#resetForm" data-close-dialog="" type="button" data-view-component="true" class="btn-sm btn">  Cancel
-  
+
 </button>
               </div>
 </form>          </div>
@@ -1970,26 +1970,26 @@
   </li>
 
   <li>
-      
+
     <div data-view-component="true" class="BtnGroup">
         <a href="/Otus-DevOps-2022-05/Turdalievw_infra/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:503285359,&quot;originating_url&quot;:&quot;https://github.com/Otus-DevOps-2022-05/Turdalievw_infra/blob/cloud-testapp/cloud-testapp/install_mongodb.sh&quot;,&quot;user_id&quot;:107407423}}" data-hydro-click-hmac="4b0e3f9b6e6473b190cd401f05b194cb9d110cd52d5be9bbcc169c87d3146fbc" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Otus-DevOps-2022-05/Turdalievw_infra" data-view-component="true" class="btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
             <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-  
+
 </a>
       <details group_item="true" id="my-forks-menu-503285359" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
             <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
-  
+
 </summary>
   <details-menu
     class="SelectMenu right-0"
       src="/Otus-DevOps-2022-05/Turdalievw_infra/my_forks_menu_content?can_fork=true"
-      
+
       role="menu"
-      
+
 >
     <div class="SelectMenu-modal">
         <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7d1d32">
@@ -2012,7 +2012,7 @@
 </svg>
             </include-fragment>
         </div>
-        
+
       </div>
     </div>
   </details-menu>
@@ -2033,7 +2033,7 @@
         <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
         <input type="hidden" name="confirm" value="true">
         <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">  Unstar
-  
+
 </button>
 </form>    </div>
   </div>
@@ -2048,7 +2048,7 @@
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-  
+
 </button></form>
     <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Otus-DevOps-2022-05/Turdalievw_infra/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gcg81pubPyG3IvbuB6ZSlToEzgJTF8llvAKX2EIshKp8NHg7J9aT-Ycj4ZHpSmeETN2v_dIswHjKGldXrEAqJg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
@@ -2057,20 +2057,20 @@
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-  
+
 </button></form>
       <details id="details-user-list-503285359" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
-  
+
 </summary>
   <details-menu
     class="SelectMenu right-0"
       src="/Otus-DevOps-2022-05/Turdalievw_infra/lists"
-      
+
       role="menu"
-      
+
 >
     <div class="SelectMenu-modal">
         <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c157f7">
@@ -2093,7 +2093,7 @@
 </svg>
             </include-fragment>
         </div>
-        
+
       </div>
     </div>
   </details-menu>
@@ -2101,7 +2101,7 @@
 </div>
   </li>
 
-  
+
 
 </ul>
 
@@ -2111,13 +2111,13 @@
 </div>
 
 
-        
+
 <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
   <a id="code-tab" href="/Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
@@ -2125,11 +2125,11 @@
             <span id="code-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="pull-requests-tab" href="/Otus-DevOps-2022-05/Turdalievw_infra/pulls" data-tab-item="i1pull-requests-tab" data-selected-links="repo_pulls checks /Otus-DevOps-2022-05/Turdalievw_infra/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
 </svg>
@@ -2137,11 +2137,11 @@
             <span id="pull-requests-repo-tab-count" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="actions-tab" href="/Otus-DevOps-2022-05/Turdalievw_infra/actions" data-tab-item="i2actions-tab" data-selected-links="repo_actions /Otus-DevOps-2022-05/Turdalievw_infra/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
 </svg>
@@ -2149,22 +2149,22 @@
             <span id="actions-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="security-tab" href="/Otus-DevOps-2022-05/Turdalievw_infra/security" data-tab-item="i3security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Otus-DevOps-2022-05/Turdalievw_infra/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
             <include-fragment src="/Otus-DevOps-2022-05/Turdalievw_infra/security/overall-count" accept="text/fragment+html"></include-fragment>
 
-    
+
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
   <a id="insights-tab" href="/Otus-DevOps-2022-05/Turdalievw_infra/pulse" data-tab-item="i4insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Otus-DevOps-2022-05/Turdalievw_infra/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
 </svg>
@@ -2172,7 +2172,7 @@
             <span id="insights-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
-    
+
 </a></li>
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <details data-view-component="true" class="details-overlay details-reset position-relative">
@@ -2184,7 +2184,7 @@
           </div>
 </summary>
   <div data-view-component="true">          <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">
-  
+
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
                   <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp" href="/Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp">
@@ -2221,27 +2221,27 @@
       <a href="https://github.dev/" class="d-none js-github-dev-shortcut" data-hotkey=".">Open in github.dev</a>
   <a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
 
-    
 
 
-    
-      
+
+
+
   <div class="clearfix container-xl px-3 px-md-4 px-lg-5 mt-4">
-    
-    
+
+
 <div>
-  
-
-  
 
 
 
 
-    
+
+
+
+
 <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Otus-DevOps-2022-05/Turdalievw_infra/blob/f2850e01401e6ae7e1287e8cf137affb01818371/cloud-testapp/install_mongodb.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-  
+
 <div class="position-relative">
   <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
     <summary class="btn css-truncate"
@@ -2254,7 +2254,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    
+
 <div class="SelectMenu">
   <div class="SelectMenu-modal">
     <header class="SelectMenu-header">
@@ -2409,13 +2409,13 @@
     <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp"><span>Turdalievw_infra</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Otus-DevOps-2022-05/Turdalievw_infra/tree/cloud-testapp/cloud-testapp"><span>cloud-testapp</span></a></span><span class="separator">/</span><strong class="final-path">install_mongodb.sh</strong>
   </h2>
   <a href="/Otus-DevOps-2022-05/Turdalievw_infra/find/cloud-testapp" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">  Go to file
-  
+
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
   <summary role="button" data-view-component="true" class="btn">  <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
-  
+
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
@@ -2428,18 +2428,18 @@
               <span class="flex-auto">Go to line</span>
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
-  
+
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
           <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="cloud-testapp/install_mongodb.sh" data-view-component="true" class="dropdown-item cursor-pointer">
-    
+
             Copy path
 
 </clipboard-copy>        </li>
         <li>
           <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Otus-DevOps-2022-05/Turdalievw_infra/blob/f2850e01401e6ae7e1287e8cf137affb01818371/cloud-testapp/install_mongodb.sh" data-view-component="true" class="dropdown-item cursor-pointer">
-    
+
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
             </span>
@@ -2455,8 +2455,8 @@
 
     <div id="spoof-warning" class="mt-0 pb-3" hidden aria-hidden>
   <div data-view-component="true" class="flash flash-warn mt-0 clearfix">
-  
-  
+
+
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert float-left mt-1">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
 </svg>
@@ -2464,7 +2464,7 @@
       <div class="overflow-hidden">This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.</div>
 
 
-  
+
 </div></div>
 
     <include-fragment src="/Otus-DevOps-2022-05/Turdalievw_infra/spoofed_commit_check/f2850e01401e6ae7e1287e8cf137affb01818371" data-test-selector="spoofed-commit-check"></include-fragment>
@@ -2484,7 +2484,6 @@
 
 
 
-      
 
 
 
@@ -2492,12 +2491,13 @@
 
 
 
-  
+
+
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
-      
+
   <div
     class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    
+
   >
 
 
@@ -2511,25 +2511,25 @@
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-      
+
 
     <div class="BtnGroup">
       <a data-permalink-href="/Otus-DevOps-2022-05/Turdalievw_infra/raw/f2850e01401e6ae7e1287e8cf137affb01818371/cloud-testapp/install_mongodb.sh" href="/Otus-DevOps-2022-05/Turdalievw_infra/raw/cloud-testapp/cloud-testapp/install_mongodb.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-  
+
 </a>        <a data-permalink-href="/Otus-DevOps-2022-05/Turdalievw_infra/blame/f2850e01401e6ae7e1287e8cf137affb01818371/cloud-testapp/install_mongodb.sh" href="/Otus-DevOps-2022-05/Turdalievw_infra/blame/cloud-testapp/cloud-testapp/install_mongodb.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
-  
+
 </a>    </div>
 
     <div class="d-flex">
 
 
-          
+
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
   <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Otus-DevOps-2022-05/Turdalievw_infra/edit/cloud-testapp/cloud-testapp/install_mongodb.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V1aKi2d235wxwr1rBPgplLzN-iz1Ao4aD3tP-TOC48jCsQUDhKRATcY3GwFqMCdfCzfpVG2ihusfaatzGO07Mw" autocomplete="off" />
     <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
-  
+
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
     <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503285359,&quot;actor_id&quot;:107407423,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
@@ -2539,7 +2539,7 @@
           <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Otus-DevOps-2022-05/Turdalievw_infra/edit/cloud-testapp/cloud-testapp/install_mongodb.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7kMykK91XSH8tcstzBWB3cUwbcYWX3frJ0YN8I5LQ5R7pL0YTKfC8AtAbUei3Y8Wcsp-vo7_fxo3VOl6pSSbbw" autocomplete="off" />
             <button title="Edit this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">  <div>Edit this file</div>
               <div class="color-fg-muted">E</div>
-  
+
 </button></form>
             <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503285359,&quot;actor_id&quot;:107407423,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div>Open in github.dev</div>
@@ -2554,10 +2554,10 @@
 </div>
 
 
-          
+
 <div data-test-selector="remote-clipboard-copy">
   <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Otus-DevOps-2022-05/Turdalievw_infra/raw/cloud-testapp/cloud-testapp/install_mongodb.sh" data-action="click:remote-clipboard-copy#remoteCopy">
-  
+
 
   <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:503285359,&quot;originating_url&quot;:&quot;https://github.com/Otus-DevOps-2022-05/Turdalievw_infra/blob/cloud-testapp/cloud-testapp/install_mongodb.sh&quot;,&quot;user_id&quot;:107407423}}" data-hydro-click-hmac="07d4c4d7e7c413127a2cbfeae5c3cce0947a31f4682f5b0f865417d54e219474" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
@@ -2625,7 +2625,7 @@
           </li>
             <li>
               <remote-clipboard-copy class="dropdown-item" data-src="/Otus-DevOps-2022-05/Turdalievw_infra/raw/cloud-testapp/cloud-testapp/install_mongodb.sh" data-action="click:remote-clipboard-copy#remoteCopy">
-  
+
 
   <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:503285359,&quot;originating_url&quot;:&quot;https://github.com/Otus-DevOps-2022-05/Turdalievw_infra/blob/cloud-testapp/cloud-testapp/install_mongodb.sh&quot;,&quot;user_id&quot;:107407423}}" data-hydro-click-hmac="07d4c4d7e7c413127a2cbfeae5c3cce0947a31f4682f5b0f865417d54e219474">
                     Copy raw contents
@@ -2671,10 +2671,10 @@
 </div>
 
 
-      
+
     <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
 
-        
+
 <div class="js-check-bidi js-blob-code-container blob-code-content">
 
   <template class="js-file-alert-template">
@@ -2682,7 +2682,7 @@
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
 </svg>
-  
+
     <span>
       This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
       <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
@@ -2690,7 +2690,7 @@
 
 
   <div data-view-component="true" class="flash-action">      <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
-  
+
 </a>
 </div>
 </div></template>
@@ -2764,7 +2764,7 @@
     </div>
 
 
-  
+
 
   <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -2772,7 +2772,7 @@
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" data-turbo="false" action="" accept-charset="UTF-8" method="get">
         <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
         <button data-close-dialog="" type="submit" data-view-component="true" class="btn">  Go
-  
+
 </button>
 </form>    </details-dialog>
   </details>
@@ -2902,4 +2902,3 @@
 
   </body>
 </html>
-
