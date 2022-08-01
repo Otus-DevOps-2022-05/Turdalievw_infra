@@ -1,7 +1,7 @@
 {
   "service_account_key_file": "key.json",
   "id_folder": "code_numbers",
-  "source_image_family": "ubuntu-1804-lts",
+  "source_image_family": "ubuntu-1604-lts",
   "zone": "ru-central1-a",
   "reddit_file": "reddit.service",
   "ssh_user": "appuser"
