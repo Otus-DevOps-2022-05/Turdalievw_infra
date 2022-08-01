@@ -1,5 +1,5 @@
 {
-  "service_account_key_file": "/otus/Turdalievw_infra/packer-base/key.json",
+  "service_account_key_file": "/otus/Turdalievw_infra/packer/key.json",
   "id_folder": "code_numbers",
   "source_image_family": "ubuntu-1604-lts",
   "zone": "ru-central1-a",
