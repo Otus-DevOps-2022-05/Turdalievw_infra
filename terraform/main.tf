@@ -1,12 +1,12 @@
-terraform {
-  required_version = "= 1.2.5"
-
-  required_providers {
-    yandex = {
-      source = "yandex-cloud/yandex"
-    }
-  }
-}
+#terraform {
+#  required_version = "= 1.2.5"
+#
+#  required_providers {
+#    yandex = {
+#      source = "yandex-cloud/yandex"
+#    }
+#  }
+#}
 
 
 provider "yandex" {
@@ -15,13 +15,13 @@ provider "yandex" {
   folder_id = var.folder_id
   zone      = var.zone
 }
-resource "yandex_compute_instance" "default" {
+resource "yandex_compute_instance" "app" {
 
   name = "reddit-app"
 
   connection {
     type        = "ssh"
-    host        = yandex_compute_instance.default.network_interface.0.nat_ip_address
+    host        = yandex_compute_instance.app.network_interface.0.nat_ip_address
     user        = "ubuntu"
     agent       = false
     private_key = file("~/.ssh/ubuntu")
